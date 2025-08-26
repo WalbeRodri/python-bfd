@@ -1,5 +1,7 @@
 # Aluno: Thiago Endrigo
-# Turma: 11
+# Turma: 11.
+
+# Desenvolver um programa para usar a taboada.
 
 num1 = int(input("Exibir a tabuada de: "))
 for i in range(11):

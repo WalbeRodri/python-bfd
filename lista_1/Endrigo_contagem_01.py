@@ -1,7 +1,7 @@
 # Aluno: Thiago Endrigo
 # Turma: 11.
 
-# Escreva um programa que imprima os números de 1 a 10 usando um loop for.
+# Escreva um programa que imprima os números de 1 a 10 usando um loop for
 
 
 num = 0
