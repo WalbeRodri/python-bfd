@@ -1,4 +1,5 @@
 # Aluno: Thiago Endrigo
+# Prof.: Walber Olibeira
 # Turma: 11.
 
 # Desenvolver um programa para usar a taboada.
