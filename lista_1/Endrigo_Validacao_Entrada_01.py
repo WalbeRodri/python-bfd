@@ -4,7 +4,7 @@
 
 # Validação de Entrada:
 # Crie um programa que peça ao usuário para inserir uma nota entre 0 e 10. 
-# O programa deve continuar pedindo a entrada até que o usuário insira um valor inválido...
+# O programa deve continuar pedindo a entrada até que o usuário insira um valor inválido.
 
 notas = []
 nota = 0
